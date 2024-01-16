@@ -3,25 +3,25 @@ import { TrendingContent } from "@/components/TrendingContent";
 export const TrendingPage = () => {
   const tredingData = [
     {
-      image: "/mock1.jpeg",
+      image: "/blog.png",
       badge: "Technology",
       title:
         "The Impact of Technology on the Workplace: How Technology is Changing",
     },
     {
-      image: "/mock1.jpeg",
+      image: "/blog.png",
       badge: "Technology",
       title:
         "The Impact of Technology on the Workplace: How Technology is Changing",
     },
     {
-      image: "/mock1.jpeg",
+      image: "/blog.png",
       badge: "Technology",
       title:
         "The Impact of Technology on the Workplace: How Technology is Changing",
     },
     {
-      image: "/mock1.jpeg",
+      image: "/blog.png",
       badge: "Technology",
       title:
         "The Impact of Technology on the Workplace: How Technology is Changing",

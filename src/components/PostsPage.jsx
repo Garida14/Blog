@@ -7,15 +7,15 @@ import { Button } from "@/components/Button";
 export const PostsPage = (props) => {
   const { homeCheck = true } = props;
   const postsData = [
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
-    { image: "/mock1.jpeg" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
+    { image: "/rock.png" },
   ];
   return (
     <div className="align-self md:w-[1216px] flex flex-col gap-[32px] items-center">

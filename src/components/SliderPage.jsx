@@ -6,7 +6,7 @@ import "flowbite";
 export const SliderPage = (props) => {
   const slideData = [
     {
-      img: "/mock1.jpeg",
+      img: "/girl.png",
       btext: "Technology",
       title: "Grid system for better Design User Interface",
       date: "August 20, 2022",
@@ -14,8 +14,8 @@ export const SliderPage = (props) => {
     {
       img: "/mockhead.jpg",
       btext: "Technology",
-      title: "This is not a fucking joke bro",
-      date: "August 24, 2024",
+      title: "Grid system for better Design User Interface",
+      date: "August 20, 2022",
     },
   ];
 
